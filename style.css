@@ -1,17 +1,26 @@
 h1{background-color:rgb(193, 119, 29) ;
    text-align: center;
    font-family: 'Courier New', Courier, monospace;
+   
+}
+dt {color: brown;
+    font-size: medium;
+}
+dd { text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: small;
 
 }
-
+li {color: rgb(176, 159, 9);}
 section{
     background-color: palevioletred
 }
+img {margin: 2px;}
 section p{
     text-align: center;
 }
 section h1{
     text-align: center;
     font-size: medium;
-    pa
+    
 }
